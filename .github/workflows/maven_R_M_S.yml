@@ -26,6 +26,6 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn -B package --file ./MCT_Recipe_Managment_System/Recipe-management-system/pom.xml
+      run: mvn -B package --file ./Recipe-management-system/pom.xml
 
    

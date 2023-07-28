@@ -85,7 +85,7 @@ cd MCT_Recipe_Managment_System
 
 
 
-The application will be accessible at `http://localhost:8080`.
+The application will be accessible at `http://43.204.114.169:8080/swagger-ui/index.html#/`.
 
 ## API Endpoints
 
@@ -102,7 +102,7 @@ The API provides the following endpoints:
 
 ## API Documentation
 
-The API documentation is available at `/swagger-ui.html` when the application is running. It provides detailed information about all the available endpoints, request and response models, and allows testing the API directly from the documentation.
+The API documentation is available at `[/swagger-ui.html](http://43.204.114.169:8080/swagger-ui/index.html#/)` when the application is running. It provides detailed information about all the available endpoints, request and response models, and allows testing the API directly from the documentation.
 
 ## Authors
 
